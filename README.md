@@ -2,7 +2,7 @@
 - 👀 I’m interested in being A Good software developer
 - 🌱 I’m currently a Computer science student at Univetisty Of Limpopo
 - 📫 Best Way To Find Me Is Through This Email: makhesalc01@gmailcom 
-Programming Languages That i Know So Far :
+- Programming Languages That i Know So Far :
 ✨Python
 ✨JavaScript For Mobile Development 
 ✨CSS
